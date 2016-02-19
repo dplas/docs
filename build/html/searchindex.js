@@ -1,0 +1,1 @@
+Search.setIndex({envversion:47,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{index:0,modul:0,page:0,search:0},titles:["DataPlastic"],titleterms:{content:[],dataplast:0,document:[],indic:0,protect:[],tabl:0,welcom:[]}})
